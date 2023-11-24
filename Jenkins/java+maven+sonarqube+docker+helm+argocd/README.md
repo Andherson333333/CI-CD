@@ -11,9 +11,9 @@ Argo CD
 
 # Etapas del pipeline
 Definir las etapas del pipeline:
-     Etapa 1 consulte el código fuente de Git.
-     Etapa 2 cree la aplicación Java con Maven.
-     Etapa 3 ejecutar pruebas unitarias usando JUnit y Mockito.
-     Etapa 4 ejecute el análisis de SonarQube para verificar la calidad del código.
-     Etapa 5 empaquete la aplicación en un archivo JAR.
+     Etapa 1: consulte el código fuente de Git.
+     Etapa 2: cree la aplicación Java con Maven.
+     Etapa 3: ejecutar pruebas unitarias usando JUnit y Mockito.
+     Etapa 4: ejecute el análisis de SonarQube para verificar la calidad del código.
+     Etapa 5: empaquete la aplicación en un archivo JAR.
 
