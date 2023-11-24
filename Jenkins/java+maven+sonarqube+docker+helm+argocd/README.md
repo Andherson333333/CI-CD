@@ -4,13 +4,17 @@
 # Instalaciones necesarias
 
 Java aplicacion código alojado en un repositorio Git
+
 Jenkins server
+
 Kubernetes cluster
+
 Helm package manager
+
 Argo CD
 
 
-**Definir etapas del pipeline:**
+# **Definir etapas del pipeline:**
    - Stage 1: consulte el código fuente de Git..
    - Stage 2: ree la aplicación Java con Maven.
    - Stage 3: ejecutar pruebas unitarias usando JUnit y Mockito.
