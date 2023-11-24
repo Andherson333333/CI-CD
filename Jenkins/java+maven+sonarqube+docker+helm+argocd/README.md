@@ -1,5 +1,5 @@
 # Estructura del pipeline 
-![Diagrama]()
+![Diagrama](https://github.com/Andherson333333/CI-CD/blob/main/Jenkins/java%2Bmaven%2Bsonarqube%2Bdocker%2Bhelm%2Bargocd/imagenes/jenkins-maven.JPG)
 
 # Instalaciones necesarias
 
@@ -11,19 +11,15 @@ Argo CD
 
 
 **Definir etapas del pipeline:**
-   - Stage 1: Checkout the source code from Git.
-   - Stage 2: Build the Java application using Maven.
-   - Stage 3: Run unit tests using JUnit and Mockito.
-   - Stage 4: Run SonarQube analysis to check the code quality.
-   - Stage 5: Package the application into a JAR file.
-   - Stage 6: Deploy the application to a test environment using Helm.
-   - Stage 7: Run user acceptance tests on the deployed application.
-   - Stage 8: Promote the application to a production environment using Argo CD.
+   - Stage 1: consulte el código fuente de Git..
+   - Stage 2: ree la aplicación Java con Maven.
+   - Stage 3: ejecutar pruebas unitarias usando JUnit y Mockito.
+   - Stage 4: ejecute el análisis de SonarQube para verificar la calidad del código..
+   - Stage 5: empaquete la aplicación en un archivo JAR..
+   - Stage 6: implementar la aplicación en un entorno de prueba utilizando Helm.
+   - Stage 7: ejecutar pruebas de aceptación del usuario en la aplicación implementada..
+   - Stage 8: ejecutar pruebas de aceptación del usuario en la aplicación implementada..
 
-1. **Install the necessary Jenkins plugins:**
-   1.1 Git plugin
-   1.2 Maven Integration plugin
-   1.3 Pipeline plugin
-   1.4 Kubernetes Continuous Deploy plugin
+
 
 
