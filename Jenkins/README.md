@@ -6,7 +6,7 @@ Jenkins es una herramienta de automatización de código abierto ampliamente uti
 
 Se puede realizar de 2 formas 
 
-1 Nativa en el sistema operativo
+## 1 Nativa en el sistema operativo
 
 Si desea Instalar jenkins verificar primero la documentacion oficial https://www.jenkins.io/doc/book/installing/, igual puede copiar los siguiente comando y se instalara 
 
@@ -26,7 +26,7 @@ sudo apt-get update
 sudo apt-get install jenkins
 ```
 
-2 Usando docker para desplegar jenkins
+## 2 Usando docker para desplegar jenkins
 
 Verificar primero la imagen oficial en https://hub.docker.com/search?q=jenkins , una ves verificada se procede a descargar
 
