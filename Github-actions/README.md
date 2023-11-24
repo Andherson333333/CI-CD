@@ -1,6 +1,6 @@
 # Uso de este repositorio
 
-Cada carpeta es un workflow distinto , dentro encontrara una explicacion del pipeline
+En la carpeta workflows se encuntra la configuracion github-actions
 
 # Que es Github actions
 
