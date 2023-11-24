@@ -2,10 +2,12 @@
 ![Diagrama](https://github.com/Andherson333333/CI-CD/blob/main/Jenkins/java%2Bmaven%2Bsonarqube%2Bdocker%2Bhelm%2Bargocd/imagenes/jenkins-maven.JPG)
 
 #**Instalacion necesario:**
-   -  Verifica los repositorios.
-   -  Construye la aplicación Java.
-   -  Escanea la aplicación con SonarQube.
-   -  Verifica el Quality Gate en SonarQube.
+   -  Java aplicacion code hosted sobre un repositorio git.
+   -  Jenkins server.
+   -  Kubernetes cluster.
+   -  Helm package manager.
+   -  Argo CD
+
 
 # **Definir etapas del pipeline:**
    - Stage 1: Verifica los repositorios.
