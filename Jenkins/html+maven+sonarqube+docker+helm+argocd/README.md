@@ -1,3 +1,8 @@
+# Uso de este repositorio
+
+Dentro de la carpeta app , se encuntra el jenkinsfile y la aplicacion 
+
+
 # Estructura del pipeline 
 ![Diagrama](https://github.com/Andherson333333/CI-CD/blob/main/Jenkins/html%2Bmaven%2Bsonarqube%2Bdocker%2Bhelm%2Bargocd/imagenes/html.JPG)
 
