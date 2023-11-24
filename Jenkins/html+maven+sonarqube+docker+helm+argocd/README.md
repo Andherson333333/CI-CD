@@ -1,5 +1,5 @@
 # Estructura del pipeline 
-![Diagrama](https://github.com/Andherson333333/CI-CD/blob/main/Jenkins/html%2Bmaven%2Bsonarqube%2Bdocker%2Bhelm%2Bargocd/html.JPG)
+![Diagrama](https://github.com/Andherson333333/CI-CD/blob/main/Jenkins/html%2Bmaven%2Bsonarqube%2Bdocker%2Bhelm%2Bargocd/imagenes/html.JPG)
 
 #  **Instalacion necesario**
    -  html codigo en los repositorios git.
