@@ -1,7 +1,16 @@
+# Descripcion del repostiorio
+
+En la carpeta spring-boot-app se encuentra la aplicacion y el jenkinfile , habra 2 jenkinfile.
+
+**Jenkinsfile**
+   -  Jenkinsfile-1 tendra una instalacion de docker , es decir jenkins es un contenedor.
+   -  Jenkinsfile-2 tendra una instalacion en el host jenkins no sera contenedor.
+
+
 # Estructura del pipeline 
 ![Diagrama](https://github.com/Andherson333333/CI-CD/blob/main/Jenkins/java%2Bmaven%2Bsonarqube%2Bdocker%2Bhelm%2Bargocd/imagenes/jenkins-maven.JPG)
 
-#  **Instalacion necesario:**
+#  **Instalacion necesario**
    -  Java aplicacion code hosted sobre un repositorio git.
    -  Jenkins server.
    -  Kubernetes cluster.
