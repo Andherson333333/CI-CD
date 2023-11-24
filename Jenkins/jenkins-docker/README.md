@@ -16,10 +16,10 @@ Se dara una breve descripcion del uso de docker en jenkins las ventajas y desven
 
 Si desea saber mas de estas configuraciones puede consultar la pagina oficial https://www.jenkins.io/doc/book/pipeline/docker/
 
-- **`Jenkinsfile-1(Customizing the execution environment)` Permite definir fácilmente imágenes de Docker como el entorno de ejecución para una Etapa o el Pipeline completo.
+-  **`Jenkinsfile-1(Customizing the execution environment)` Permite definir fácilmente imágenes de Docker como el entorno de ejecución para una Etapa o el Pipeline completo.
 - Jenkins seleccionará automáticamente el contenedor especificado y ejecutará las etapas definidas en él.
 
-- **`Jenkinsfile-2 Using multiple containers`Permite combinar Docker y Pipeline para utilizar múltiples tecnologías en un Jenkinsfile.
+-  **`Jenkinsfile-2 Using multiple containers`Permite combinar Docker y Pipeline para utilizar múltiples tecnologías en un Jenkinsfile.
 
 # Comparación: Jenkins en Docker vs. Jenkins en el Host
 
