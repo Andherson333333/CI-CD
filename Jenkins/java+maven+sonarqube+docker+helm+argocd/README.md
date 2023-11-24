@@ -1,7 +1,7 @@
 # Estructura del pipeline 
 ![Diagrama](https://github.com/Andherson333333/CI-CD/blob/main/Jenkins/java%2Bmaven%2Bsonarqube%2Bdocker%2Bhelm%2Bargocd/imagenes/jenkins-maven.JPG)
 
-#**Instalacion necesario:**
+# **Instalacion necesario:**
    -  Java aplicacion code hosted sobre un repositorio git.
    -  Jenkins server.
    -  Kubernetes cluster.
