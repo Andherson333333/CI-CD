@@ -1,18 +1,11 @@
 # Estructura del pipeline 
 ![Diagrama](https://github.com/Andherson333333/CI-CD/blob/main/Jenkins/java%2Bmaven%2Bsonarqube%2Bdocker%2Bhelm%2Bargocd/imagenes/jenkins-maven.JPG)
 
-# Instalaciones necesarias
-
-Java aplicacion código alojado en un repositorio Git
-
-Jenkins server
-
-Kubernetes cluster
-
-Helm package manager
-
-Argo CD
-
+#**Instalacion necesario:**
+   -  Verifica los repositorios.
+   -  Construye la aplicación Java.
+   -  Escanea la aplicación con SonarQube.
+   -  Verifica el Quality Gate en SonarQube.
 
 # **Definir etapas del pipeline:**
    - Stage 1: Verifica los repositorios.
