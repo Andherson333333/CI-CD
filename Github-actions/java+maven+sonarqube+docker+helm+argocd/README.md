@@ -3,7 +3,7 @@
 En la carpeta workflows se encuentra la configuracion de github-actions
 
 # Estructura workflows
-![Diagrama]()
+![Diagrama](https://github.com/Andherson333333/CI-CD/blob/main/Github-actions/java%2Bmaven%2Bsonarqube%2Bdocker%2Bhelm%2Bargocd/Imagenes/github-maven.JPG)
 
 #  **Instalacion necesario**
    -  Kubernetes cluster.
