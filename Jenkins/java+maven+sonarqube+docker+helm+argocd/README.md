@@ -15,13 +15,13 @@ Argo CD
 
 
 # **Definir etapas del pipeline:**
-   - Stage 1: consulte el código fuente de Git..
-   - Stage 2: ree la aplicación Java con Maven.
-   - Stage 3: ejecutar pruebas unitarias usando JUnit y Mockito.
-   - Stage 4: ejecute el análisis de SonarQube para verificar la calidad del código..
-   - Stage 5: empaquete la aplicación en un archivo JAR..
-   - Stage 6: implementar la aplicación en un entorno de prueba utilizando Helm.
-   - Stage 7: ejecutar pruebas de aceptación del usuario en la aplicación implementada..
+   - Stage 1: Verifica los repositorios.
+   - Stage 2: Construye la aplicación Java.
+   - Stage 3: Escanea la aplicación con SonarQube.
+   - Stage 4: Verifica el Quality Gate en SonarQube.
+   - Stage 5: Construye y etiqueta la imagen Docker.
+   - Stage 6: Inicia sesión en Docker Hub y realiza push de la imagen.
+   - Stage 7:Actualiza el despliegue en ArgoCD.
    - Stage 8: ejecutar pruebas de aceptación del usuario en la aplicación implementada..
 
 
