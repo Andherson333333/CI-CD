@@ -17,7 +17,11 @@ En la carpeta spring-boot-app se encuentra la aplicacion y el jenkinfile , habra
    -  Helm package manager.
    -  Argo CD
 
-
+#  **Instalacion en jenkins**
+   -  Git plugin
+   -  Maven plugin
+   -  Pipeline plugin
+   
 # **Definir etapas del pipeline:**
    - Stage 1: Verifica los repositorios.
    - Stage 2: Construye la aplicación Java.
