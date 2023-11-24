@@ -1,3 +1,8 @@
+# Descripcion de este repositorio
+
+Se dara una breve descripcion del uso de docker en jenkins las ventajas y desventajas.Contendra 2 pipeline uno multi-stage y otro solo stage de uso mas comunes en un pipeline 
+
+
 # Estructura Jenkins con docker
 
 ![Diagrama](https://github.com/Andherson333333/CI-CD/blob/main/Jenkins/jenkins-docker/imagenes/docker-jenkins.JPG)
