@@ -7,8 +7,6 @@
    - Jenkins-docker
 
 
-# Ventajas y desventajas con docker
-
 # Comparación: Jenkins en Docker vs. Jenkins en el Host
 
 ## Ventajas
