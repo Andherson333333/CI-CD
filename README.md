@@ -10,17 +10,14 @@ La Integración Continua es una práctica en la que los desarrolladores combinan
 Despliegue Continuo (CD):
 El Despliegue Continuo es la extensión natural de la Integración Continua y se centra en automatizar el proceso de entrega de software a entornos de producción o pruebas. El objetivo es reducir al mínimo la intervención humana en el proceso de despliegue, permitiendo entregas más frecuentes y consistentes.
 
-# Herramientas de CI/CD
-
-Jenkins
-
-GitHub Actions
-
-GitLab CI/CD
-
-CircleCI 
-
+ **Herramientas CI/CD:**
+   - Jenkins.
+   - GitHub Actions.
+   - GitLab CI/CD.
+   - CircleCI
+     
 Y Muchas mas
+
 
 
 
