@@ -29,11 +29,12 @@ sudo apt-get install jenkins
 ## 2 Usando docker para desplegar jenkins
 
 Verificar primero la imagen oficial en https://hub.docker.com/search?q=jenkins , una ves verificada se procede a descargar
+```
+docker pull jenkins/jenkins 
+```
+siempre es recomendable descargar las imagenes con un tag para tener mejor control sobre las versiones 
 
-docker pull jenkins/jenkins  siempre es recomendable descargar las imagenes con un tag para tener mejor control sobre las versiones 
-
-docker pull jenkins/jenkins:<version>-<jdk>
-
+`docker pull jenkins/jenkins:<version>-<jdk>`
 
 # Uso de este repositorio
 
