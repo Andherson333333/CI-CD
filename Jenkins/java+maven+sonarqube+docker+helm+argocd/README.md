@@ -9,11 +9,16 @@ Kubernetes cluster
 Helm package manager
 Argo CD
 
-# Etapas del pipeline
-Definir las etapas del pipeline:
-     Etapa 1: consulte el código fuente de Git.
-     Etapa 2: cree la aplicación Java con Maven.
-     Etapa 3: ejecutar pruebas unitarias usando JUnit y Mockito.
-     Etapa 4: ejecute el análisis de SonarQube para verificar la calidad del código.
-     Etapa 5: empaquete la aplicación en un archivo JAR.
+
+**Definir etapas del pipeline:**
+   - Stage 1: Checkout the source code from Git.
+   - Stage 2: Build the Java application using Maven.
+   - Stage 3: Run unit tests using JUnit and Mockito.
+   - Stage 4: Run SonarQube analysis to check the code quality.
+   - Stage 5: Package the application into a JAR file.
+   - Stage 6: Deploy the application to a test environment using Helm.
+   - Stage 7: Run user acceptance tests on the deployed application.
+   - Stage 8: Promote the application to a production environment using Argo CD.
+
+
 
