@@ -16,11 +16,11 @@ Dentro de esta carpeta, crea un archivo YAML para la configuración de la acció
 **Configuración Manual o Predeterminada**:Puedes crear manualmente la carpeta y el archivo YAML o simplemente dirigirte a la sección "Actions" en tu repositorio en GitHub.GitHub detectará automáticamente la falta de un flujo de trabajo y te sugerirá crear uno predeterminado.
 Definir Eventos para Activar la Acción:
 
-**Definir Eventos para Activar la Acción:**En el archivo YAML, define los eventos que activarán tu acción. Por ejemplo, puedes configurar la acción para ejecutarse en cada push o en eventos específicos.
+**Definir Eventos para Activar la Acción**:En el archivo YAML, define los eventos que activarán tu acción. Por ejemplo, puedes configurar la acción para ejecutarse en cada push o en eventos específicos.
 
-**Configurar los Trabajos y Pasos:**Dentro del archivo YAML, define los trabajos (jobs) y pasos (steps) necesarios para tu acción.
+**Configurar los Trabajos y Pasos**:Dentro del archivo YAML, define los trabajos (jobs) y pasos (steps) necesarios para tu acción.
 
-**Commit y Observar la Acción en GitHub:**Realiza un commit con tus cambios en el archivo YAML.Dirígete a la sección "Actions" en tu repositorio de GitHub para observar la ejecución de tu flujo de trabajo.
+**Commit y Observar la Acción en GitHub**:Realiza un commit con tus cambios en el archivo YAML.Dirígete a la sección "Actions" en tu repositorio de GitHub para observar la ejecución de tu flujo de trabajo.
 
 
 
