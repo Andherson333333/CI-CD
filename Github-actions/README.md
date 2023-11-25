@@ -10,8 +10,6 @@ GitHub Actions es un servicio de integración continua y despliegue continuo (CI
 
 Para utilizar GitHub Actions y automatizar flujos de trabajo, sigue estos pasos:
 
-## Configuración de GitHub Actions
-
 ### 1. Crear una Carpeta y Archivo de Configuración YAML
    - Crea una carpeta llamada `.github/workflows` en la raíz de tu repositorio.
    - Dentro de esta carpeta, crea un archivo YAML para la configuración de la acción, por ejemplo, `mi_flujo.yaml`.
