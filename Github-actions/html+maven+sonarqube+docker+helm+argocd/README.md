@@ -1,6 +1,6 @@
 # Descripcion del repostiorio
 
-En la carpeta workflows se encuentra la configuracion de github-actions
+En el archivo CI-CD.yml se encuentra la configuracion de github-actions
 
 # Estructura workflows
 ![Diagrama]()
