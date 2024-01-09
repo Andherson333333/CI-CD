@@ -1,6 +1,6 @@
 # Descripcion del repostiorio
 
-En la carpeta workflows se encuentra la configuracion de github-actions
+En el archivo CI-CD.yml se encuentra la configuracion de github-actions
 
 # Estructura workflows
 ![Diagrama](https://github.com/Andherson333333/CI-CD/blob/main/Github-actions/java%2Bmaven%2Bsonarqube%2Bdocker%2Bhelm%2Bargocd/Imagenes/github-maven.JPG)
